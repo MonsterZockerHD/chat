@@ -1,1 +1,1 @@
-# fivem-chat
+# fivem-togglechat
